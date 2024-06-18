@@ -1,7 +1,7 @@
 # ojt_kadai_basic
 ====
-
-Overview
+- Java基礎演習
+- 計10問
 
 ## Description
 
