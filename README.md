@@ -1,18 +1,7 @@
 # ojt_kadai_basic
 - Java基礎演習
 - 計10問
-## Description
-
-## Demo
-
-## VS. 
-
-## Requirement
-
-## Usage
-
-## Install
-
-## Contribution
-
-## Licence
+  
+## 概要
+- Javaの基礎知識を付けるための課題
+- 
